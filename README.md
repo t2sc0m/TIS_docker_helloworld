@@ -8,4 +8,4 @@ adite/base
 
 ## USAGE
 ```shell
-$ sudo docker run -t -i -p 1337:1337 --rm adite/TIS_helloworld
+$ sudo docker run -t -i -p 8080:8080 --rm adite/TIS_helloworld

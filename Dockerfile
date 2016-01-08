@@ -14,6 +14,6 @@ RUN cd /tmp && \
 
 ADD basicServer.js /tmp/basicServer.js
 
-EXPOSE 1337
+EXPOSE 8080
 
 CMD node /tmp/basicServer.js
